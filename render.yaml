@@ -6,6 +6,6 @@ services:
     startCommand: python bot.py
     envVars:
       - key: BOT_TOKEN
-        sync: false
+        sync: 8963697303:AAFmbHY8dtcPOeTUiGpTZveSiFq-9lYxV6M
       - key: ADMIN_ID
-        sync: false
+        sync: 8530025653
